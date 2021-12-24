@@ -59,6 +59,8 @@ Open Source Enthusiast. Introverted Human.
 
 <hr>
 
+### 💻 Conding Stats
+
 <!--START_SECTION:waka-->
 ```text
 Bash   4 hrs 52 mins   █████████▒░░░░░░░░░░░░░░░   37.34 % 
