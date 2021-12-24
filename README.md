@@ -59,7 +59,7 @@ Open Source Enthusiast. Introverted Human.
 
 <hr>
 
-### 💻 Conding Stats
+### 💻 Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
