@@ -55,6 +55,12 @@ Open Source Enthusiast. Introverted Human.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+
+
+<hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <hr>
 
 <details>	
@@ -70,5 +76,8 @@ Open Source Enthusiast. Introverted Human.
   </div>
 </p>
 </details>
+
+
+
 
 
