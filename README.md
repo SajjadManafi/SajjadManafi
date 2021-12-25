@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<a href="https://samujjwaal.me/"><img src="etc/Sajjad.png" align="right" height="230" /></a>
+<a href="#"><img src="etc/Sajjad.png" align="right" height="230" /></a>
 ### I'm a self-taught passionate BackEnd developer from Iran 🇮🇷
 Freelancer and BackEnd Developer with +5 years experience.<br>
 20 years old and CE student.<br>
