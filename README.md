@@ -57,14 +57,11 @@ Open Source Enthusiast. Introverted Human.
 
 
 
-<hr>
+<!-- <hr> -->
 
-### 💻 Coding Stats
+<!-- ### 💻 Coding Stats -->
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <hr>
