@@ -63,11 +63,11 @@ Open Source Enthusiast. Introverted Human.
 
 <!--START_SECTION:waka-->
 ```text
-Go         3 hrs 29 mins   ██████████████▓░░░░░░░░░░   58.12 % 
-Text       41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Markdown   38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Makefile   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Python     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Go         9 hrs 33 mins   █████████████████▓░░░░░░░   70.22 % 
+Text       1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+YAML       1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Makefile   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Markdown   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 <!--END_SECTION:waka-->
 
