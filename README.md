@@ -64,12 +64,12 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Go           4 hrs 7 mins    ███████████▒░░░░░░░░░░░░░   45.18 %
-JavaScript   1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-SQL          1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
-Python       49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Text         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-TypeScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Go           3 hrs 20 mins   █████████████▓░░░░░░░░░░░   54.98 %
+JavaScript   1 hr 53 mins    ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+TypeScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Text         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+CSS          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
