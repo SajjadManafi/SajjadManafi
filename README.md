@@ -64,9 +64,10 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Dart       11 mins         █████████████████████░░░░   84.35 %
-Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Other      0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Dart       3 hrs 4 mins    ██████████████████████▓░░   90.78 %
+YAML       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+XML        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
