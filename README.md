@@ -63,9 +63,10 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Go      2 hrs 11 mins   █████████████████████▓░░░   86.44 %
-SQL     20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Go       2 hrs 11 mins   █████████████████████░░░░   83.83 %
+SQL      20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Python   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
