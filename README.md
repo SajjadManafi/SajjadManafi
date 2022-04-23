@@ -63,9 +63,7 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Go         3 hrs 42 mins   ██████████████████████▓░░   90.08 %
-Java       22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Go   3 hrs 42 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
