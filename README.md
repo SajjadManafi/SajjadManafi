@@ -17,7 +17,7 @@ Open Source Enthusiast. Introverted Human.
 - 🌱 I’m currently learning gPRC and microservices
 - :computer: I'm looking for a job
 
-#### - 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:sajadmanafi@gmai.com) [![Telegram](https://img.shields.io/badge/telegram-1DA1F2.svg?style=for-the-badge&logoColor=ffffff)](https://t.me/itsSajjadMa)
+#### - 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:sajadmanafi@gmail.com) [![Telegram](https://img.shields.io/badge/telegram-1DA1F2.svg?style=for-the-badge&logoColor=ffffff)](https://t.me/itsSajjadMa)
 
 <br>
 
