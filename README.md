@@ -63,7 +63,9 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python        2 hrs 25 mins   ████████████████▒░░░░░░░░   64.86 %
+MATLAB        1 hr 8 mins     ███████▓░░░░░░░░░░░░░░░░░   30.65 %
+Objective-C   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
