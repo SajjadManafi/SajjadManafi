@@ -63,12 +63,10 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Python        3 hrs 30 mins   █████████████████▓░░░░░░░   70.25 %
-MATLAB        1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-Objective-C   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Go            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-SQL           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python     1 hr 5 mins     █████████████████████▓░░░   86.17 %
+Go         8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+SQL        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
