@@ -63,7 +63,8 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SQL   1 min           ████████████████▒░░░░░░░░   65.26 %
+Go    0 secs          ████████▓░░░░░░░░░░░░░░░░   34.74 %
 ```
 
 <!--END_SECTION:waka-->
