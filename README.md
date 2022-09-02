@@ -63,8 +63,8 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Python     13 hrs 48 mins  ████████████████████████░   95.96 %
-Makefile   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Python     10 hrs 17 mins  █████████████████████████   99.99 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
