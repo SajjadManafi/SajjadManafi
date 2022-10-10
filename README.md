@@ -63,8 +63,7 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Python   59 mins         ██████████████████████▒░░   88.94 %
-Other    7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
