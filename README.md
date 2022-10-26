@@ -63,7 +63,9 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Makefile   1 min           █████████████████████████   100.00 %
+Go         8 mins          ████████████████████▒░░░░   80.79 %
+Makefile   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
