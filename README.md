@@ -63,7 +63,8 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Assembly   4 mins          ███████████████▒░░░░░░░░░   61.49 %
+Go         3 mins          █████████▓░░░░░░░░░░░░░░░   38.51 %
 ```
 
 <!--END_SECTION:waka-->
