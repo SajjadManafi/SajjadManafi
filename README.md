@@ -63,8 +63,7 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Go         2 hrs 56 mins   ████████████████████████▒   97.26 %
-Assembly   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Go   2 hrs 53 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
