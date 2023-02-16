@@ -63,11 +63,11 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Go           12 hrs 27 mins  ████████████████████████░   96.55 %
-Makefile     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go          12 hrs 4 mins   ███████████████████████▓░   95.04 %
+Makefile    19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Caddyfile   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Bash        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
