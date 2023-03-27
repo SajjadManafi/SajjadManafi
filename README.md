@@ -63,8 +63,9 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Go     50 mins         ███████████████████▓░░░░░   79.00 %
-Bash   13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+Bash      1 hr 44 mins    █████████████████░░░░░░░░   67.50 %
+Go        50 mins         ████████░░░░░░░░░░░░░░░░░   32.42 %
+systemd   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
