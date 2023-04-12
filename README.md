@@ -63,9 +63,7 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```text
-Go       3 hrs 36 mins   ██████████████████████▒░░   89.20 %
-Docker   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Bash     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
