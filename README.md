@@ -58,11 +58,11 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                1 hr 1 min      ███████████▒░░░░░░░░░░░░░   44.83 %
-Java              48 mins         █████████░░░░░░░░░░░░░░░░   35.55 %
-Protocol Buffer   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Bash              10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Java              4 hrs 16 mins   ████████████▓░░░░░░░░░░░░   51.05 %
+Go                3 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   41.96 %
+Protocol Buffer   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Bash              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Other             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
