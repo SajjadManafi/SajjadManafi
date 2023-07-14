@@ -58,11 +58,11 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                4 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   31.85 %
-Python            3 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-YAML              2 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 %
-TOML              58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-HTML              40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Go                4 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.37 %
+Python            3 hrs 26 mins   ██████░░░░░░░░░░░░░░░░░░░   24.40 %
+YAML              2 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+TOML              58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+HTML              40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
