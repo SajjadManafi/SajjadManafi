@@ -58,10 +58,10 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                5 hrs 41 mins   █████████████████████▓░░░   86.30 %
-GraphQL           29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Protocol Buffer   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-YAML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Go                3 hrs 48 mins   ████████████████████▓░░░░   82.43 %
+GraphQL           29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Protocol Buffer   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+YAML              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
