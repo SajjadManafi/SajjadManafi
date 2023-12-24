@@ -58,8 +58,8 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```txt
-Go        1 hr 32 mins    █████████████████████▒░░░   85.46 %
-GraphQL   15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
+Go        1 hr 13 mins    ████████████████████▓░░░░   82.56 %
+GraphQL   15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
 ```
 
 <!--END_SECTION:waka-->
