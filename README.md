@@ -58,7 +58,9 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   44 mins         ███████████████████▒░░░░░   77.95 %
+JSON     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+C        5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
 ```
 
 <!--END_SECTION:waka-->
