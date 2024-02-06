@@ -9,11 +9,10 @@ Here are some ideas to get you started:
 <a href="#"><img src="etc/Sajjad.png" align="right" height="230" /></a>
 ### I'm a self-taught passionate BackEnd developer from Iran 🇮🇷
 Freelancer and BackEnd Developer with +4 years experience.<br>
-21 years old and CE student.<br>
+22 years old and CE student.<br>
 Open Source Enthusiast. Introverted Human. 
 
 
-- 🌱 I’m currently learning gPRC and microservices
 - :computer: I'm looking for a job
 
 #### - 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:sajadmanafi8@gmail.com) [![Telegram](https://img.shields.io/badge/telegram-1DA1F2.svg?style=for-the-badge&logoColor=ffffff)](https://t.me/itsSajjadMa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sajjad-Manafi) 
@@ -24,7 +23,6 @@ Open Source Enthusiast. Introverted Human.
 
 #### Languages, Frameworks, Platforms and Libraries: <br>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
