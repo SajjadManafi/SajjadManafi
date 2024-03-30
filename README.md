@@ -56,9 +56,8 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         9 mins          █████████████▒░░░░░░░░░░░   52.71 %
-Go           6 mins          █████████▓░░░░░░░░░░░░░░░   38.52 %
-Git Config   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+HTML   9 mins          ███████████████████▒░░░░░   77.98 %
+Go     2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
 ```
 
 <!--END_SECTION:waka-->
