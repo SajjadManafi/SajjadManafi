@@ -56,10 +56,10 @@ Open Source Enthusiast. Introverted Human.
 <!--START_SECTION:waka-->
 
 ```txt
-Python     5 hrs 59 mins   █████████████████░░░░░░░░   68.01 %
-Go         2 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-GraphQL    41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Go         2 hrs 5 mins    ███████████░░░░░░░░░░░░░░   43.58 %
+Python     1 hr 59 mins    ██████████▒░░░░░░░░░░░░░░   41.42 %
+GraphQL    41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
