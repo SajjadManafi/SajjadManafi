@@ -8,12 +8,9 @@ Here are some ideas to get you started:
 
 <a href="#"><img src="etc/Sajjad.png" align="right" height="230" /></a>
 ### I'm a self-taught passionate BackEnd developer from Iran 🇮🇷
-Freelancer and BackEnd Developer with +4 years experience.<br>
-22 years old and CE student.<br>
+Freelancer and BackEnd Developer with +6 years experience.<br>
+23 years old and CE student.<br>
 Open Source Enthusiast. Introverted Human. 
-
-
-- :computer: I'm looking for a job
 
 #### - 📫 How to reach me:   [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:sajadmanafi8@gmail.com) [![Telegram](https://img.shields.io/badge/telegram-1DA1F2.svg?style=for-the-badge&logoColor=ffffff)](https://t.me/itsSajjadMa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sajjad-Manafi) 
 
